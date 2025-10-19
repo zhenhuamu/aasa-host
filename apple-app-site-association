@@ -1,0 +1,68 @@
+{
+  "appclips": {
+    "apps": [
+      "72QBPVXPJ3.com.feiniu.FNFresh.nfcClip"
+    ]
+  },
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "paths": [
+          "/fresh/wechat/",
+          "/fresh/wechat/*",
+          "/fresh/*"
+        ],
+        "appID": "72QBPVXPJ3.com.feiniu.FNFresh"
+      },
+      {
+        "paths": [
+          "/actogo/wechat/",
+          "/actogo/wechat/*",
+          "/actogo/*"
+        ],
+        "appID": "839RVH9JXX.com.feiniu.actogo"
+      },
+      {
+        "paths": [
+          "/fresh/*/*"
+        ],
+        "appID": "CFK9592XDR.com.feiniu.FNFresh.Internal"
+      },
+      {
+        "paths": [
+          "/actogo/*/*"
+        ],
+        "appID": "CFK9592XDR.com.feiniu.actogo.internal"
+      },
+      {
+        "paths": [
+          "/e68/wechat/",
+          "/e68/wechat/*",
+          "/e68/*"
+        ],
+        "appID": "72QBPVXPJ3.com.feiniu.FNE68"
+      },
+      {
+        "paths": [
+          "/e68/*/*"
+        ],
+        "appID": "CFK9592XDR.com.feiniu.FNE68.Internal"
+      },
+      {
+        "paths": [
+          "/membershop/wechat/",
+          "/membershop/wechat/*",
+          "/membershop/*"
+        ],
+        "appID": "72QBPVXPJ3.com.feiniu.memberShop"
+      },
+      {
+        "paths": [
+          "/membershop/*/*"
+        ],
+        "appID": "CFK9592XDR.com.feiniu.memberShop.Internal"
+      }
+    ]
+  }
+}
