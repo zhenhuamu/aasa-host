@@ -1,6 +1,6 @@
 # 🍎 Apple App Site Association Host
 
-适用于飞牛系 App（FNFresh / Actogo / E68 / MemberShop）的 AASA 文件托管。
+AASA 文件托管。
 
 ## ✅ 特性
 - 免费托管（Cloudflare Pages / Netlify）
